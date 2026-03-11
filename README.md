@@ -23,6 +23,9 @@ SMS alerts using a GSM module
 🔹 Tech Stack: Arduino C++, Embedded Systems, GSM (SIM800L)  
 🔹 Academic Context: Integrated Project – I (Semester II) — graded A+
 
+## Demo Video
+[Click to see project Video](https://youtu.be/D7OepSH5e2E)
+
 👨‍💻 Made with ❤️ by
 
 Josh Yadav
@@ -30,6 +33,9 @@ Josh Yadav
 Keshav
 
 Krish Koundal
+
+Kaushal
+
 
 
 
